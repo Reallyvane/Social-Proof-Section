@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-social-proof-section-eGmlR9F_LG))
-- Live Site URL: [Vercel]([https://your-live-site-url.com](https://social-proof-section-nesdevs.vercel.app))
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-social-proof-section-eGmlR9F_LG)
+- Live Site URL: [Vercel](https://social-proof-section-nesdevs.vercel.app)
 
 ## My process
 
